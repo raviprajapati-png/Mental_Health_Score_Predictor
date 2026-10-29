@@ -3,7 +3,7 @@
     'use strict';
 
     /* ---------- Config ---------- */
-    const API_URL = 'http://127.0.0.1:8000/predict'; // your FastAPI endpoint
+    const API_URL = 'https://mental-health-score-predictor-xa88.onrender.com'; // your FastAPI endpoint
     const SCORE_MAX = 10;                            // top of the gauge scale
     const MIN_LOADING_MS = 800;                      // so the loading state is readable
 
