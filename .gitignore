@@ -40,14 +40,11 @@ dist/
 *.egg-info/
 
 # Machine learning model files
-*.pkl
-*.joblib
-*.h5
-*.keras
-*.pth
-*.pt
+# *.pkl
+# *.joblib
+# *.h5
+# *.keras
+# *.pth
+# *.pt
 
-# Local datasets and generated outputs
-# Uncomment if you don't want to track these:
-# data/
-# outputs/
+
