@@ -6,7 +6,7 @@
 
     // Use this when frontend and FastAPI backend are deployed
     // on the same Render service.
-    const API_URL = `https://mental-health-score-predictor-xa88.onrender.com`;
+    const API_URL = `https://mental-health-score-predictor-xa88.onrender.com/predict`;
 
     const SCORE_MAX = 10;
     const MIN_LOADING_MS = 800;
